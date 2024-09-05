@@ -21,6 +21,7 @@ Link download browser offline installer
 
 [ [Google  Chrome Enterprise Offline Installer (32-bit dan 64-bit)](https://chromeenterprise.google/browser/download/) ]
 
+======================================
 
 **Download Firefox Offline Installer**
 
