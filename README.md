@@ -58,3 +58,11 @@ Link download browser offline installer
 [ <a href="https://get.geo.opera.com/ftp/pub/" target="_blank">FTP Website ( Opera Desktop / Opera Developer / Opera GX / Vista XP )</a> ]
 
 [ <a href="https://download.opera.com/download/get/?partner=www&nothanks=yes&product=Android" target="_blank">Android</a> ]
+
+======================================
+
+** Download Chromium Offline Installer **
+
+[ <a href="https://chromium.woolyss.com/" target="_blank">Archive Download</a> ]
+
+[ <a href="https://chromium.woolyss.com/download/" target="_blank">Download</a> ]
