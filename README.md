@@ -1,4 +1,10 @@
 # Browser
+
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/6d5c842b-fa57-4f66-a97e-aba70e8ff492" /> 
+</p>
+
+
 Link download browser offline installer
 
 **Download Google Chrome Offline Installer**
