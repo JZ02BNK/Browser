@@ -21,4 +21,4 @@ Link download browser offline installer
 
 [ [Google  Chrome Enterprise Offline Installer (32-bit dan 64-bit)](https://chromeenterprise.google/browser/download/) ]
 
-<a href="https://chromeenterprise.google/browser/download/" target="_blank">Google  Chrome Enterprise Offline Installer (32-bit dan 64-bit)</a>
+[<a href="https://chromeenterprise.google/browser/download/" target="_blank">Google  Chrome Enterprise Offline Installer (32-bit dan 64-bit)</a>]
