@@ -21,6 +21,19 @@ Link download browser offline installer
 
 [ [Google  Chrome Enterprise Offline Installer (32-bit dan 64-bit)](https://chromeenterprise.google/browser/download/) ]
 
+
 **Download Firefox Offline Installer**
 
 [ <a href="https://www.mozilla.org/en-US/firefox/all/#product-desktop-release" target="_blank">Download  Mozilla Firefox Full Standalone Offline Installer</a> ]
+
+[ <a href="https://www.mozilla.org/en-US/firefox/organizations/all/" target="_blank">Download  Mozilla Firefox ESR Full Standalone Offline Installer</a> ]
+
+[ <a href="https://www.mozilla.org/en-US/firefox/beta/all/" target="_blank">Download  Mozilla Firefox Beta Full Standalone Offline Installer</a> ]
+
+[ <a href="https://www.mozilla.org/en-US/firefox/nightly/all/" target="_blank">Download  Mozilla Firefox Nightly Full Standalone Offline Installer</a> ]
+
+[ <a href="https://www.mozilla.org/en-US/firefox/developer/all/" target="_blank">Download  Mozilla Firefox Developer Edition Full Standalone Offline Installer</a> ]
+
+[ <a href="https://ftp.mozilla.org/pub/firefox/releases/" target="_blank">FTP Website</a> ]
+
+[ <a href="https://www.mozilla.org/en-US/firefox/all/#product-android-release" target="_blank">Android</a> ]
