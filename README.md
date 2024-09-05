@@ -38,3 +38,23 @@ Link download browser offline installer
 [ <a href="https://ftp.mozilla.org/pub/firefox/releases/" target="_blank">FTP Website</a> ]
 
 [ <a href="https://www.mozilla.org/en-US/firefox/all/#product-android-release" target="_blank">Android</a> ]
+
+======================================
+
+**Download Opera Offline Installer**
+
+[ <a href="https://www.opera.com/download/get/?partner=www&opsys=Windows" target="_blank">Download  Opera Offline Installer for Windows (32-bit)</a> ]
+
+[ <a href="https://www.opera.com/download/get/?partner=www&opsys=Windows&arch=x64" target="_blank">Download  Opera Offline Installer for Windows (64-bit)</a> ]
+
+[ <a href="https://www.opera.com/download/get/?partner=www&opsys=MacOS" target="_blank">Download  Opera Offline Installer for Mac</a> ]
+
+[ <a href="https://www.opera.com/download/get/?partner=www&opsys=Linux" target="_blank">Download  Opera Offline Installer for Linux (Deb)</a> ]
+
+[ <a href="https://www.opera.com/download/get/?partner=www&opsys=Linux&package=RPM" target="_blank">Download  Opera Offline Installer for Linux (RPM)</a> ]
+
+[ <a href="https://get.geo.opera.com/pub/" target="_blank">PUB Website ( Opera Desktop / Opera Developer / Opera GX / Vista XP )</a> ]
+
+[ <a href="https://get.geo.opera.com/ftp/pub/" target="_blank">FTP Website ( Opera Desktop / Opera Developer / Opera GX / Vista XP )</a> ]
+
+[ <a href="https://download.opera.com/download/get/?partner=www&nothanks=yes&product=Android" target="_blank">Android</a> ]
