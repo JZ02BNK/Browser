@@ -20,3 +20,5 @@ Link download browser offline installer
 [ [Android](https://play.google.com/store/apps/details?id=com.android.chrome&pcampaignid=websitedialog) ]
 
 [ [Google  Chrome Enterprise Offline Installer (32-bit dan 64-bit)](https://chromeenterprise.google/browser/download/) ]
+
+[ [Google  Chrome Enterprise Offline Installer (32-bit dan 64-bit)](<a href="https://chromeenterprise.google/browser/download/" target="_blank">Go</a>) ]
